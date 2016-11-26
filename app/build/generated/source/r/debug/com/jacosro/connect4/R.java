@@ -1833,18 +1833,10 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with_application=0x7f050011;
         public static final int abc_toolbar_collapse_description=0x7f050012;
         public static final int action_settings=0x7f050014;
-        public static final int all=0x7f050015;
-        public static final int app_name=0x7f050016;
-        public static final int clear=0x7f050017;
-        public static final int cleared=0x7f050018;
-        public static final int coloured=0x7f050019;
-        public static final int conecta4=0x7f05001a;
-        public static final int contentDescription=0x7f05001b;
-        public static final int counter=0x7f05001c;
-        public static final int load=0x7f05001d;
-        public static final int save=0x7f05001e;
+        public static final int app_name=0x7f050015;
+        public static final int clear=0x7f050016;
+        public static final int contentDescription=0x7f050017;
         public static final int status_bar_notification_info_overflow=0x7f050013;
-        public static final int veces=0x7f05001f;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f080087;

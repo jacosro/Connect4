@@ -7,7 +7,6 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:stretchColumns="*"
-    tools:context="com.example.conecta4.MainActivity" 
     android:orientation="vertical" >
 
     <TextView
@@ -15,7 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="1.00"
         android:gravity="center"
-        android:text="@string/conecta4"
+        android:text="@string/app_name"
         android:textSize="50sp"
         android:textStyle="bold" />
     
